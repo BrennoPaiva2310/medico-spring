@@ -1,0 +1,9 @@
+package com.hospital.medico.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.hospital.medico.entities.Medico;
+
+public interface IMedicoJasper extends JpaRepository<Medico, Integer> {
+
+}

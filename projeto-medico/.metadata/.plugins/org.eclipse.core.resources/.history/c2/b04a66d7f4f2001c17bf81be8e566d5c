@@ -1,0 +1,5 @@
+package com.hospital.medico.service;
+
+public class ReportService {
+
+}

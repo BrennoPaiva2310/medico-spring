@@ -1,0 +1,5 @@
+package com.hospital.medico.controllers;
+
+public class AccoutController {
+
+}

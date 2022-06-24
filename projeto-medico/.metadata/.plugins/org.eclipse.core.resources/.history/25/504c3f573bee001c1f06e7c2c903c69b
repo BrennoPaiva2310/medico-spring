@@ -1,0 +1,5 @@
+package com.hospital.medico.request;
+
+public interface LoginPostRequest {
+
+}
